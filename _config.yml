@@ -3,7 +3,7 @@ title: Halve
 description: Stylish, Two-Column Jekyll Theme
 url: https://philam.github.io/Halve
 logo: halve.png                                       # Site logo
-locale: en_US
+locale: en_AU
 
 # Left Block Images
 background:
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+twitter:           philipmallis
+facebook:          philipmallismaps
+github:             philam
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -47,12 +47,12 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #youtube:           username
 #soundcloud:        username
 #weibo:             username
-#flickr:            username
+flickr:            philipmallis
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
